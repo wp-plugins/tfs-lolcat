@@ -1,6 +1,5 @@
 === TFS LOLcat ===
 Contributors: benmillett
-Plugin link: http://ben-kt.momillett.org/tfslolcat/
 Donate link: http://ben-kt.momillett.org/tfslolcat/
 Tags: tfs, lolcat
 Requires at least: 2.1
@@ -11,6 +10,8 @@ A text filter that will convert your posts and comments to LOLcat-style language
 
 == Description ==
 This is an extension of Dougal Campbell's <a href="http://dougal.gunters.org/blog/2004/08/30/text-filter-suite">Text Filter Suite</a>, which is required for TFSLOLcat to work.  Posts and comments can be changed to LOLcat-style language.  By default, all posts and comments will be switched on the official LOLcat Day of 07 July (7-07 is LOL upside-down).
+
+Visit the <a href="http://ben-kt.momillett.org/tfslolcat/">plugin homepage</a> for additional information.
 
 == Installation ==
 
