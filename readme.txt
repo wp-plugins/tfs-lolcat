@@ -13,7 +13,7 @@ This is an extension of Dougal Campbell's <a href="http://dougal.gunters.org/blo
 
 == Installation ==
 
-0.  Change the value of variable $talk_like_a_lolcat to false if you do not want your posts automatically converted to LOLcat-ese on the Official LOLcat Day of 07 July (7-07 = LOL upside down).
+0.  Change the value of variable `$talk_like_a_lolcat` to false if you do not want your posts automatically converted to LOLcat-ese on the Official LOLcat Day of 07 July (7-07 = LOL upside down).
 1.  Download Dougal Campbell’s <a href="http://dougal.gunters.org/blog/2004/08/30/text-filter-suite">Text Filter Suite</a>.
 2.  Add tfslolcat.php to the Text Filter Suite folder and upload to your /wordpress/wp-content/plugins/ folder.
 3.  Activate the TFS-Core and TFSLOLcat plugins from the Plugins page in the Wordpress admin panel.
