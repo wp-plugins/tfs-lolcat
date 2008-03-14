@@ -1,6 +1,6 @@
 === TFS LOLcat ===
 Contributors: benmillett
-Donate link: http://ben-kt.momillett.org/tfslolcat/
+Donate link: 
 Tags: tfs, lolcat
 Requires at least: 2.1
 Tested up to: 2.3.3
