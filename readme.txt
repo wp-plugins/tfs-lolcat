@@ -17,7 +17,7 @@ This is an extension of Dougal Campbell's <a href="http://dougal.gunters.org/blo
 1.  Download Dougal Campbell’s <a href="http://dougal.gunters.org/blog/2004/08/30/text-filter-suite">Text Filter Suite</a>.
 2.  Add tfslolcat.php to the Text Filter Suite folder and upload to your /wordpress/wp-content/plugins/ folder.
 3.  Activate the TFS-Core and TFSLOLcat plugins from the Plugins page in the Wordpress admin panel.
-4.  If you want individual posts to use the filter, add “lolcat” (without quotes) as the value to the key “post_filter” for filtered post content and “comment_filter” for filtered comment content.
+4.  If you want individual posts to use the filter, add `lolcat` as the value to the key `post_filter` for filtered post content and `comment_filter` for filtered comment content.
 
 
 == Frequently Asked Questions ==
