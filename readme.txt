@@ -3,7 +3,7 @@ Contributors: benmillett
 Donate link: 
 Tags: tfs, lolcat
 Requires at least: 2.1
-Tested up to: 2.3.3
+Tested up to: 2.5
 Stable tag: trunk
 
 A text filter that will convert your posts and comments to LOLcat-style language.
