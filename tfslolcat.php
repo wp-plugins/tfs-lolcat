@@ -2,7 +2,7 @@
 /*
  * Plugin Name: TFS LOLcat
  * Version: 0.2
- * Plugin URI: 
+ * Plugin URI: http://ben-kt.momillett.org/tfslolcat/
  * Description: Based on Dougal Campbell's Pirate filter. (Requires <a href="http://dougal.gunters.org/blog/2004/08/30/text-filter-suite">TFS Core</a>)
  * Author: Ben Millett, Dougal Campbell
  * Author URI: http://ben.momillett.org/
