@@ -4,7 +4,7 @@
  * Version: 0.2
  * Plugin URI: 
  * Description: Based on Dougal Campbell's Pirate filter. (Requires <a href="http://dougal.gunters.org/blog/2004/08/30/text-filter-suite">TFS Core</a>)
- * Author: Dougal Campbell, Ben M
+ * Author: Ben Millett, Dougal Campbell
  * Author URI: http://ben.momillett.org/
  *
  * History:

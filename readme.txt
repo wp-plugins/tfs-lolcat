@@ -1,5 +1,5 @@
 === TFS LOLcat ===
-Contributors: benmillett
+Contributors: benmillett, dougal
 Donate link: 
 Tags: tfs, lolcat
 Requires at least: 2.1
