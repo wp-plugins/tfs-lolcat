@@ -1,7 +1,7 @@
 === TFS LOLcat ===
 Contributors: benmillett, dougal
 Donate link: 
-Tags: tfs, lolcat
+Tags: tfs, lolcat, filter, text-filter-suite, humor, content, comment
 Requires at least: 2.1
 Tested up to: 2.5
 Stable tag: 0.2
