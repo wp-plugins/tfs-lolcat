@@ -30,5 +30,5 @@ Visit <a href="http://ben-kt.momillett.org/2008/03/lolcat-speak/">this post</a> 
 
 == Version History ==
 
-0.2 (2007-03-15) - Updated with words from speaklolspeak.com.<br />
+0.2 (2008-03-15) - Updated with words from speaklolspeak.com.<br />
 0.1 (2008-03-11) - Initial release.
