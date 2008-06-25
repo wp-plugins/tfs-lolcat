@@ -1,20 +1,21 @@
 <?php
 /*
  * Plugin Name: TFS LOLcat
- * Version: 0.2
+ * Version: 1.1
  * Plugin URI: http://ben-kt.momillett.org/tfslolcat/
  * Description: Based on Dougal Campbell's Pirate filter. (Requires <a href="http://dougal.gunters.org/blog/2004/08/30/text-filter-suite">TFS Core</a>)
  * Author: Ben Millett, Dougal Campbell
  * Author URI: http://ben.momillett.org/
  *
  * History:
+ * 1.1 (2008-06-25) - LOLcat day changed to <a href="http://icanhascheezburger.com/2008/06/23/gratests-of-teh-awl-tiem-lolz-nomiashunz/">8 Aug</a>. Not a major update, but version number change to hopefully overcome a wordpress/extend/plugin issue.
  * 0.2 (2007-03-15) - Updated with words from <a href="http://speaklolspeak.com/>LOLspeak</a>.
  * 0.1 (2008-03-11) - Initial release.
  * Use lolcat as the value for post_filter and comment_filter in the custom fields on the write page.
  */
 
 // If you don't want this filter to automatically engage every year
-// on July 7, set this to false:
+// on 8 Aug, set this to false:
 $talk_like_a_lolcat = true;
 
 function lolcat($content) {
@@ -339,7 +340,7 @@ function lolavast($ctub = '',$chance2 = 5) {
 }
 
 // Use the lolcat filter on July 7.
-if ($talk_like_a_lolcat && '0707' == date('md') && !$_GET['filter']) {
+if ($talk_like_a_lolcat && '0808' == date('md') && !$_GET['filter']) {
 	add_filter('the_content','lolcat');
 	add_filter('comment_text','lolcat');
 }
