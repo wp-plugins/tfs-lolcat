@@ -28,7 +28,7 @@ Visit the <a href="http://ben-kt.momillett.org/tfslolcat/">plugin homepage</a> f
 
 Visit <a href="http://ben-kt.momillett.org/2008/03/lolcat-speak/">this post</a> for a demonstration.
 
-== Version History ==
+== Changelog ==
 
 1.1 (2008-06-25) - LOLcat day changed to <a href="http://icanhascheezburger.com/2008/06/23/gratests-of-teh-awl-tiem-lolz-nomiashunz/">8 Aug</a>. Not a major update, but version number change to hopefully overcome a wordpress/extend/plugin issue.<br />
 0.2 (2008-03-15) - Updated with words from speaklolspeak.com.<br />
